@@ -1,6 +1,6 @@
 # JsbServer
 ## About
-JsbServer stands for Java Spring Boot. This is a simple Rest API project using Java Spring Boot and also Gradle as project management, and MySQL as data storage. Unlike other Java projects, this is only built and developed through the Android Terminal Emulator (Termux) but you can still use it on your favorite PC/Laptop.
+JsbServer stands for Java Spring Boot. This is a simple Rest API project using Java Spring Boot and also Gradle as project management, and MySQL as data storage. Unlike other Java projects, this is only built and developed through the Android Terminal Emulator (Termux) but you can still use it on your favorite PC/Laptop and any Operating Syste.
 
 ## Requirements
 Before you try it, please pay attention to the availability of the resources needed to avoid errors:
